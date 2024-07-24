@@ -1,43 +1,74 @@
-# Excel-Sales-and-Finance-Analytics
-## Sales Report :
+# Sales and Finance Analysis Project
 
+## Sales Report:
 
-- **Project objective:** 
+**Project Goals:**
 
-    **1.** Create a 
-    **2.** Conduct a comprehensive comparison between 
+- Develop a comprehensive [Customer Performance Report](https://github.com/Divya-Pardeshi/Excel-Sales-and-Finance-Analytics/blob/main/Sales%20Analytics/AtliQ%20Hardwares%20Report%20-%20Customer%20Net%20Sales%20Performace.pdf).
+- Conduct a thorough comparison of [Market Performance and Sales Targets](https://github.com/Divya-Pardeshi/Excel-Sales-and-Finance-Analytics/blob/main/Sales%20Analytics/AtliQ%20Hardwares%20Report%20-%20Market%20Performance%20Vs%20Target.pdf).
 
-- **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
+**Purpose of Sales Analytics:**
 
-- **Importance of analyzing sales data:** Identify sales patterns and track key performance indicators (KPIs).
+- Enable businesses to track and assess their sales performance and activities.
 
-- **Role of reports:** Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
+**Significance of Analyzing Sales Data:**
 
+- Detect sales patterns and monitor crucial performance metrics.
+- Provide insights for setting effective customer discounts.
+- Assist in consumer negotiations.
+- Identify opportunities for business expansion in high-potential markets.
 
-## Finance Report :
+**Role of Reports:**
 
-- **Project objective:** 
+- Determine effective customer discounts.
+- Facilitate negotiations with consumers.
+- Identify potential business expansion opportunities in promising countries.
 
-    **1.** Create Profit and Loss (P&L) reports by 
+## Finance Report:
 
-   **2.** Create Profit and Loss (P&L) reports by =
-- **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
+**Project Goals:**
 
-- **Importance of analyzing Finance data:** Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
+- Generate Profit and Loss (P&L) statements by [Fiscal Year](https://github.com/Divya-Pardeshi/Excel-Sales-and-Finance-Analytics/blob/main/Finance%20Analytics/P%20and%20%20L%20By%20Year%20Report.pdf) and [Months](https://github.com/Divya-Pardeshi/Excel-Sales-and-Finance-Analytics/blob/main/Finance%20Analytics/P%20and%20L%20By%20Months.pdf).
+- Create P&L reports by [Markets](https://github.com/Divya-Pardeshi/Excel-Sales-and-Finance-Analytics/blob/main/Finance%20Analytics/P%20and%20L%20for%20Markets.pdf).
 
-- **Role of reports:** Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
+**Purpose of Financial Analytics:**
 
+- Evaluate financial performance.
+- Inform decision-making processes.
+- Enhance communication with stakeholders.
 
-## Technical & Soft Skills:
-- [x]	Proficiency in ETL methodology (Extract, Transform, Load).
-- [x]	Skills to generate a date table using Power Query.
-- [x]	Ability to derive fiscal months and quarters.
-- [x]	Establishing data model relationships with Power Pivot.
-- [x]	Proficiency in incorporating supplementary data into an existing data model.
-- [x]	Utilizing DAX to create calculated columns.
+**Significance of Analyzing Finance Data:**
+
+- Benchmark against industry standards and historical data.
+- Lay the groundwork for budgeting and forecasting.
+
+**Role of Reports:**
+
+- Align financial planning with strategic goals.
+- Build confidence in the organization's financial outlook.
+
+## Technical Skills:
+
+- **Data Analysis Techniques**: Proficiency in ETL processes (Extract, Transform, Load).
+- **Power Query Date Table Creation**: Created a date table using Power Query.
+- **Fiscal Month/Quarter Derivation**: Derived fiscal months and quarters with ease for clear financial reporting.
+- **Power Pivot Data Model Relationships**: Established data model relationships with Power Pivot.
+- **Incorporated Supplementary Data**: Integrated supplementary data into an existing data model.
+- **DAX Calculated Columns**: Used DAX to craft calculated columns to unlock advanced data manipulation capabilities..
 
 ## Soft Skills:
-- [x]	Refined understanding of Sales & Finance Reports
-- [x]	Designing user-centric reports with empathy in mind.
-- [x]	Optimization of report generation through meticulous fine-tuning.
-- [x]	Developing a systematic approach to devising a report building plan.
+
+- **Sales & Finance Report Expertise** : Cultivated a deep understanding of sales and finance reports to translate complex data into actionable insights.
+- **User-Centric Design** : Crafted reports with empathy in mind, ensuring clarity, accessibility, and ease of understanding for diverse audiences.
+- **Optimization through Fine-Tuning** : Acquired skills in optimizing report generation through meticulous fine-tuning.
+- **Systematic Approach** : Developed a structured method for report building, fostering efficiency and maximizing impact.
+
+## Report Links:
+-  [Customer Performance Report](https://github.com/Divya-Pardeshi/Excel-Sales-and-Finance-Analytics/blob/main/Sales%20Analytics/AtliQ%20Hardwares%20Report%20-%20Customer%20Net%20Sales%20Performace.pdf)
+- [Market Performance and Sales Targets](https://github.com/Divya-Pardeshi/Excel-Sales-and-Finance-Analytics/blob/main/Sales%20Analytics/AtliQ%20Hardwares%20Report%20-%20Market%20Performance%20Vs%20Target.pdf)
+- [Profit & Loss Reports By Fiscal Year](https://github.com/Divya-Pardeshi/Excel-Sales-and-Finance-Analytics/blob/main/Finance%20Analytics/P%20and%20%20L%20By%20Year%20Report.pdf)
+- [Profit & Loss Reports By Months](https://github.com/Divya-Pardeshi/Excel-Sales-and-Finance-Analytics/blob/main/Finance%20Analytics/P%20and%20L%20By%20Months.pdf)
+- [Profit & Loss Reports By Markets](https://github.com/Divya-Pardeshi/Excel-Sales-and-Finance-Analytics/blob/main/Finance%20Analytics/P%20and%20L%20for%20Markets.pdf)
+  
+## Conclusion
+This Sales and Finance Analysis Project provided a valuable platform to not only leverage my existing technical skills but also fostered continuous learning and refinement.  The experience gained in crafting insightful reports and manipulating data plays a crucial role in my development as a data professional. I'm eager to apply these honed skills and newfound knowledge to tackle future projects with even greater depth and impact.
